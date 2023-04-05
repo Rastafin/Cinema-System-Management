@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinoProjekt", "KinoProjekt\KinoProjekt.csproj", "{E210DFD7-AD82-4AA7-B778-6BA760DF8E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{B8F7D018-D77A-4DBF-A083-B8A950E262CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E210DFD7-AD82-4AA7-B778-6BA760DF8E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E210DFD7-AD82-4AA7-B778-6BA760DF8E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E210DFD7-AD82-4AA7-B778-6BA760DF8E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E210DFD7-AD82-4AA7-B778-6BA760DF8E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F7D018-D77A-4DBF-A083-B8A950E262CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F7D018-D77A-4DBF-A083-B8A950E262CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F7D018-D77A-4DBF-A083-B8A950E262CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F7D018-D77A-4DBF-A083-B8A950E262CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A90ECB-E9EB-4E6C-8D30-37F68E510AFC}
+	EndGlobalSection
+EndGlobal
